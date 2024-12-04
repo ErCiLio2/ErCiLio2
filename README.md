@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Ercilio Julio
 - 👀 I’m interested in web develop, deskotp and mobile or programing, 
 - 🌱 I’m currently learning javaScript, react.Js, Html5, CSS, TailiwindCSS,  Reatt.js, C, Python, Java Bootstrap and more...
-<--- - 💞️ I’m looking to -->-
-<--- - 📫 How to reach me ... --->
+<!--- - 💞️ I’m looking to -->-
+<!--- - 📫 How to reach me ... --->
 - 😄 Pronouns: He, Him
-<--- - ⚡ Fun fact: ... --->
+<!--- - ⚡ Fun fact: ... --->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ErCiLio2/ErCiLio2/output/github-contribution-grid-snake-dark.svg">
