@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ercilio Julio
 - 👀 I’m interested in web develop, deskotp and mobile or programing, 
 - 🌱 I’m currently learning javaScript, react.Js, Html5, CSS, TailiwindCSS,  Reatt.js, C, Python, Java Bootstrap and more...
-<!--- - 💞️ I’m looking to -->-
+<!--- - 💞️ I’m looking to -->
 <!--- - 📫 How to reach me ... --->
 - 😄 Pronouns: He, Him
 <!--- - ⚡ Fun fact: ... --->
