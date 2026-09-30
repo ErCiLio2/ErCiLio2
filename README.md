@@ -50,8 +50,8 @@ I build and ship production software for the Angolan market — SaaS platforms, 
 
 ## 📫 Get in touch
 
-- 💼 LinkedIn: <!-- adiciona o teu link aqui -->
-- ✉️ Email: <!-- adiciona o teu email aqui -->
+- 💼 LinkedIn: https://www.linkedin.com/in/erciliojulio/
+- ✉️ Email: erciliociu@gmail.com
 
 😄 Pronouns: He/Him
 
