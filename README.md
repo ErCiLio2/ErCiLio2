@@ -8,11 +8,11 @@ I build and ship production software for the Angolan market — SaaS platforms, 
 
 ## 🚀 What I'm working on
 
-- 💳 **Fintech** — digital wallet, QR payments and fleet management (Troco Seguro)
-- ✈️ **Travel SaaS** — B2B agency platform integrated with Travelport GDS (FlyPort)
-- 🏢 **ERP & SaaS** — multi-tenant business platform for 5 Angolan verticals (MESA)
-- 🎓 **EdTech** — online learning platforms and tutoring marketplace
-- 🔗 **On-demand** — multi-vertical service platform with RBAC dual-plane architecture
+- 💳 **Fintech** — digital payments, QR wallets and fleet management platform (in production)
+- ✈️ **FlyPort** — B2B travel agency SaaS integrated with Travelport GDS · QA & Tech Lead @ ChimGam
+- 🏢 **MESA ERP** — multi-tenant business platform for 5 Angolan verticals (in production)
+- 🛒 **WOL Commerce** — B2B & live commerce platform with built-in analytics (in production)
+- 🎓 **EdTech & On-demand** — online learning and multi-vertical service platforms
 
 ## 🛠️ Tech Stack
 
